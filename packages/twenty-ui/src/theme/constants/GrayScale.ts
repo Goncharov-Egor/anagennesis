@@ -1,0 +1,22 @@
+/* eslint-disable @nx/workspace-no-hardcoded-colors */
+export const GRAY_SCALE = {
+  gray100: '#000000',
+  gray90: '#141414',
+  gray85: '#212121',
+  gray80: '#414141',
+  gray75: '#414141',
+  gray70: '#414141',
+  gray65: '#414141',
+  gray60: '#414141',
+  gray55: '#f1f1f1',
+  gray50: '#666666',
+  gray45: '#818181',
+  gray40: '#999999',
+  gray35: '#b3b3b3',
+  gray30: '#cccccc',
+  gray25: '#d6d6d6',
+  gray20: '#ebebeb',
+  gray15: '#f1f1f1',
+  gray10: '#fcfcfc',
+  gray0: '#ffffff',
+};
